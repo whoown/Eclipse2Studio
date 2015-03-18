@@ -1,8 +1,8 @@
 # Eclipse2Studio
 convert eclipse android project into android studio format. 
-
+> 
 [功能] 将Android在Eclipse下的工程，转换为AndroidStudio工程：
-
+> 
 [使用]：
 1. 确保本地已经正确配置过Java/Android开发环境。
 2. 运行eclipse2studio.jar。可以直接运行脚本eclipse2studio.bat。
