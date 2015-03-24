@@ -1,0 +1,18 @@
+
+# Andorid Compile SDK API Level
+# You can refer the version of installed sdks from SDK-Manager.
+# If the specified version no exists, it will be replaced by 
+# the program according to your local environment.
+compileApiVersion = 18
+
+# Andorid SDK Build Tools Version
+# You can refer the version of installed build tools from SDK-Manager.
+# If the specified version no exists, it will be replaced by 
+# the program according to your local environment.
+buildToolsVersion = 20.0.0
+
+# whether copy the library reference into build.gradle.
+# if set true, errors may occur when import the module 
+# into AndroidStudio since the libraries may not exists . 
+includeLibraryRefrence = false
+
