@@ -23,4 +23,6 @@ convert eclipse android project into android studio format.
 > 
 4. 如果导入过程发生问题，在Studio的“Android”视图下无法查看工程时，可以在“Project”视图下找到导入后的工程。通过修改其build.gradle以解决问题。
 >
+TODO:
+1. Eclipse工程模式下导入的Support包（e.g Support v4 Campact v7）,会被存放在libs目录中，如果直接导入Studio工程中，会发生各种问题。最好的办法是：如果需要support库，自己在Studio工程配置中加入就好了。
 
